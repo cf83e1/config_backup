@@ -1,4 +1,4 @@
 These are the original config files for various programs. The Bash files
-(bashrc, bash_logout) are the ones from Debian 6 (Squeeze). The
-sources.list file is the one from Debian 6 (Squeeze) also, using the
+(bashrc,  bash_logout)  are  the  ones  from  Debian  6  (Squeeze).  The
+sources.list file  is the one  from Debian  6 (Squeeze) also,  using the
 default US Debian repository of the net-install.
